@@ -3,11 +3,15 @@ End-to-end HR Analytics solution using Power BI to transform workforce data into
 
 ## [Interactive Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMjVjMDdkNmUtOWJlNy00ZjJlLWJiMmYtZGU1OTg1YTZmMTQ3IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
+---
+
 ## Objective
 
 To design a comprehensive HR Analytics dashboard in Power BI that monitors workforce distribution, evaluates employee performance, and connects HR metrics with business outcomes like customer satisfaction and delivery efficiency.
 
 The goal is to enable data-driven decision-making to improve employee retention, productivity, and operational performance.
+
+--- 
 
 ## Highlights
 
@@ -30,6 +34,8 @@ The goal is to enable data-driven decision-making to improve employee retention,
 - **Employee Performance Table:** Built a detailed view with productivity index, engagement score, and performance indicators, enabling granular employee-level analysis
   
 - **Customer Satisfaction and Delivery Metrics:** Measured average customer satisfaction (7.5) and on-time delivery (93.98%), linking workforce efficiency to business outcomes
+
+---
 
   ## Conclusion
 
