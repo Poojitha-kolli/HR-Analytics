@@ -1,6 +1,8 @@
 # HR-Analytics
 End-to-end HR Analytics solution using Power BI to transform workforce data into actionable insights for improving employee performance and organizational efficiency.
 
+## [Interactive Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMjVjMDdkNmUtOWJlNy00ZjJlLWJiMmYtZGU1OTg1YTZmMTQ3IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
 ## Objective
 
 To design a comprehensive HR Analytics dashboard in Power BI that monitors workforce distribution, evaluates employee performance, and connects HR metrics with business outcomes like customer satisfaction and delivery efficiency.
